@@ -1,11 +1,11 @@
 # IOS-Dev-PreWork
-# Prework - *Name of App Here*
+# Prework - *Background Changing App*
 
-Submitted by: **Your Name Here**
+Submitted by: **Arya Shrestha**
 
-**Name of your app** is an app that... [TODO] 
+**Background Changing App** is an app that changes background using a button!
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
