@@ -21,6 +21,21 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+Spotify
+
+Personalized playlists like Discover Weekly and Daily Mix.
+Cross-device synchronization (seamless play on different devices).
+Downloadable music for offline listening.
+Instagram
+
+Interactive Stories with polls, Q&A, and music.
+Explore page tailored to interests.
+Reels for bite-sized, engaging content.
+Notion
+
+Highly customizable workspaces for notes and projects.
+Collaborative editing for teams.
+Integration of databases, calendars, and to-do lists in one place.
 
 ## Notes
 
