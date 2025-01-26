@@ -11,8 +11,8 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -26,11 +26,13 @@ Spotify
 Personalized playlists like Discover Weekly and Daily Mix.
 Cross-device synchronization (seamless play on different devices).
 Downloadable music for offline listening.
+
 Instagram
 
 Interactive Stories with polls, Q&A, and music.
 Explore page tailored to interests.
 Reels for bite-sized, engaging content.
+
 Notion
 
 Highly customizable workspaces for notes and projects.
@@ -39,11 +41,11 @@ Integration of databases, calendars, and to-do lists in one place.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I needed to research online on how to connect the button.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Arya Shrestha]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
