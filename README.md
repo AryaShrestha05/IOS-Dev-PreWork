@@ -4,7 +4,7 @@ Submitted by: **Arya Shrestha**
 
 **Housing Price Generator** is an app that allows users to generate an approximate price of their houses using data from the existing prices of houses in the market.
 
-Time spent: **4** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
