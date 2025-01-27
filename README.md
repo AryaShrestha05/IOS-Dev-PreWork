@@ -1,11 +1,11 @@
 # IOS-Dev-PreWork
-# Prework - *Background Changing App*
+# Prework - *Housing Price Generator*
 
 Submitted by: **Arya Shrestha**
 
-**Background Changing App** is an app that changes background using a button!
+**Housing Price Generator** is an app that allows users to generate an approximate price of their houses using data from the existing prices of houses in the market.
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -29,9 +29,9 @@ Downloadable music for offline listening.
 
 App 2: Instagram
 
-Interactive Stories with polls, Q&A, and music.
-Explore page tailored to interests.
-Reels for bite-sized, engaging content.
+<ul>Interactive Stories with polls, Q&A, and music.</ul>
+<ul>Explore page tailored to interests.</ul>
+<ul>Reels for bite-sized, engaging content.</ul>
 
 App 3: Notion
 
