@@ -14,8 +14,7 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="nqHtM1K"><a href="https://imgur.com/nqHtM1K">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![](https://imgur.com/nqHtM1K.gif)
 
 
 ## App Brainstorming
