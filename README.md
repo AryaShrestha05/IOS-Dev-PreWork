@@ -16,23 +16,24 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
+https://www.loom.com/share/8f0af97b18c34c28b4ffad98be4bb0ce?sid=63f399e7-ce1a-4b3f-a3e7-2d38389030ee
 
-(https://www.loom.com/share/8f0af97b18c34c28b4ffad98be4bb0ce?sid=63f399e7-ce1a-4b3f-a3e7-2d38389030ee)
 
 ## App Brainstorming (Step 4)
-Spotify
+
+App 1: Spotify
 
 Personalized playlists like Discover Weekly and Daily Mix.
 Cross-device synchronization (seamless play on different devices).
 Downloadable music for offline listening.
 
-Instagram
+App 2: Instagram
 
 Interactive Stories with polls, Q&A, and music.
 Explore page tailored to interests.
 Reels for bite-sized, engaging content.
 
-Notion
+App 3: Notion
 
 Highly customizable workspaces for notes and projects.
 Collaborative editing for teams.
