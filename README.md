@@ -44,7 +44,7 @@ App 3: Notion
 I am interested in utilizing machine learning algorithms to analyze and predict the average price of houses within a specific state in the United States. To achieve this, I plan to implement polynomial regression, which is well-suited for capturing non-linear relationships in housing data. Furthermore, I aim to develop a comprehensive application that not only employs the machine learning model to calculate and display the average house prices but also provides an interactive and visually informative user interface. The application will feature dynamic graphs that illustrate price distributions across various ranges, visual representations of regression lines, and other insightful data visualizations. This project seeks to combine the predictive power of machine learning with user-friendly design to deliver an effective tool for real estate analysis and decision-making.
 ## Notes
 
-The main challenges that I faced was to get familiar with Xcode's interface, connecting logic to the UI (Button), and getting familiar with Github, which includes connecting code to my repository.
+The main challenges that I faced was to get familiar with Xcode's interface, connecting logic to the UI (Button), and getting familiar with Github, which includes connecting code to my repository, and adding the video file to my README file.
 ## License
 
     Copyright [2025] [Arya Shrestha]
