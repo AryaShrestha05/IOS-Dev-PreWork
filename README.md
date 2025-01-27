@@ -16,13 +16,9 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div>
-    <a href="https://www.loom.com/share/e6033124e9f543cfa5ee91540e096031">
-    </a>
-    <a href="https://www.loom.com/share/e6033124e9f543cfa5ee91540e096031">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e6033124e9f543cfa5ee91540e096031-20e61b1012f23f7c-full-play.gif">
-    </a>
-  </div>
+<div style="position: relative; padding-bottom: 213.26732673267327%; height: 0;">
+ <iframe src="https://www.loom.com/embed/8f0af97b18c34c28b4ffad98be4bb0ce?sid=c01ff824-655a-4d28-bfaa-f734ed406047" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ## App Brainstorming (Step 4)
 Spotify
