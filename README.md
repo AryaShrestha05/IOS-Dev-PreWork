@@ -23,9 +23,9 @@ https://www.loom.com/share/8f0af97b18c34c28b4ffad98be4bb0ce?sid=63f399e7-ce1a-4b
 
 App 1: Spotify
 
-Personalized playlists like Discover Weekly and Daily Mix.
-Cross-device synchronization (seamless play on different devices).
-Downloadable music for offline listening.
+<ul>Personalized playlists like Discover Weekly and Daily Mix.</ul>
+<ul>Cross-device synchronization (seamless play on different devices).</ul>
+<ul>Downloadable music for offline listening.</ul>
 
 App 2: Instagram
 
@@ -35,13 +35,13 @@ App 2: Instagram
 
 App 3: Notion
 
-Highly customizable workspaces for notes and projects.
-Collaborative editing for teams.
-Integration of databases, calendars, and to-do lists in one place.
+<ul>Highly customizable workspaces for notes and projects.</ul>
+<ul>Collaborative editing for teams.</ul>
+<ul>Integration of databases, calendars, and to-do lists in one place.</ul>
 
 ## Notes
 
-I needed to research online on how to connect the button.
+I needed to research online on how to connect the button, and get to know how to use github.
 
 ## License
 
