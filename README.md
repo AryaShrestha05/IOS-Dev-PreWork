@@ -1,4 +1,3 @@
-# IOS-Dev-PreWork
 # Prework - *Housing Price Generator*
 
 Submitted by: **Arya Shrestha**
