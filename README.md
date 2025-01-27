@@ -16,9 +16,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div style="position: relative; padding-bottom: 213.26732673267327%; height: 0;"><iframe src="https://www.loom.com/embed/e6033124e9f543cfa5ee91540e096031?sid=52d7b828-a306-4f90-a5d3-543b32c583a1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## App Brainstorming (Step 4)
 Spotify
