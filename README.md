@@ -40,7 +40,7 @@ App 3: Notion
 <ul>Integration of databases, calendars, and to-do lists in one place.</ul>
 
 
-App that I would like to build: 
+## App that I would like to build: 
 
 I am interested in utilizing machine learning algorithms to analyze and predict the average price of houses within a specific state in the United States. To achieve this, I plan to implement polynomial regression, which is well-suited for capturing non-linear relationships in housing data. Furthermore, I aim to develop a comprehensive application that not only employs the machine learning model to calculate and display the average house prices but also provides an interactive and visually informative user interface. The application will feature dynamic graphs that illustrate price distributions across various ranges, visual representations of regression lines, and other insightful data visualizations. This project seeks to combine the predictive power of machine learning with user-friendly design to deliver an effective tool for real estate analysis and decision-making.
 ## Notes
